@@ -1,6 +1,6 @@
 # Advanced Graph Algorithms in C++
 
-This project showcases an advanced and fully generic **Graph Module implemented in modern C++**, designed with Unreal Engine integration in mind.  
+This project showcases an advanced and fully generic **Graph Module implemented in modern C++**.
 It demonstrates strong command of templates, STL containers, graph theory, and algorithmic problem-solving applied to game development.
 
 ---
