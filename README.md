@@ -58,5 +58,3 @@ This module demonstrates:
 
 ---
 
-## 📁 Code Structure
-
